@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Design Patterns Alpha
 description: Repository to hold design pattern content
+remote_theme: fasouto/fasouto.github.com
