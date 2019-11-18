@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Design Patterns Alpha
 description: Repository to hold design pattern content
 remote_theme: pmarsceill/just-the-docs
+search_enabled: false
