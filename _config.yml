@@ -3,3 +3,8 @@ title: User Research Guide (Alpha)
 description: Working document for people to collaborate on the user research guide
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
+aux_links:
+  "Edit on Github":
+    - "//github.com/dlevineBC/Service-Pattern-Test"
+  "Email your comments":
+    - "//github.com/dlevineBC/Service-Pattern-Test"
