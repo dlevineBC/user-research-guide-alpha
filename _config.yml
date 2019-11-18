@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Design Patterns Alpha
-description: Repository to hold design pattern content
+title: User Research Guide
+description: Working document for people to collaborate on the user research guide
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
