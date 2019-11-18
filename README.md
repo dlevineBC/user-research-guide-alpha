@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Introduction to user research
 nav_order: 1
 ---
 
