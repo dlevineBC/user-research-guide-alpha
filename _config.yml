@@ -5,6 +5,6 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 aux_links:
   "Edit on Github":
-    - "//github.com/dlevineBC/Service-Pattern-Test"
+    - "//github.com/dlevineBC/user-research-guide-alpha"
   "Email your comments":
-    - "//github.com/dlevineBC/Service-Pattern-Test"
+    - "//github.com/dlevineBC/user-research-guide-alpha"
