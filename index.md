@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to user research
-nav_order: 1
+nav_order: 2
 ---
 
 [Suggest an edit](https://github.com/dlevineBC/Service-Pattern-Test/issues/new)
