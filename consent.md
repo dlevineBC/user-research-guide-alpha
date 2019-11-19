@@ -4,6 +4,8 @@ title: Consent
 nav_order: 5
 ---
 
+[Suggest an edit](https://github.com/dlevineBC/user-research-guide-alpha/issues/new)
+
 # Consent
 
 ## Purpose of consent forms
