@@ -8,7 +8,6 @@ nav_order: 5
 
 # Consent
 
-1. TOC
 {:toc}
 
 ## Purpose of consent forms
