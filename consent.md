@@ -9,7 +9,7 @@ has_toc: true
 
 # Consent
 
-1.Table of contents
+1. TOC
 {:toc}
 
 ## Purpose of consent forms
