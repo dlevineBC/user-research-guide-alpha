@@ -2,6 +2,7 @@
 layout: default
 title: Consent
 nav_order: 5
+has_toc: true
 ---
 
 [Suggest an edit](https://github.com/dlevineBC/user-research-guide-alpha/issues/new)
