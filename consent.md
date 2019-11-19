@@ -8,6 +8,8 @@ nav_order: 5
 
 # Consent
 
+{:toc}
+
 ## Purpose of consent forms
 The purpose of a consent form is for both participants and researchers of the session to understand and agree on:
 
@@ -19,3 +21,7 @@ The purpose of a consent form is for both participants and researchers of the se
 - duration of the study
 - compensation for the study
 - who to contact if there are any questions
+
+## Getting a consent form
+
+## Signatures
