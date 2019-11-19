@@ -9,8 +9,9 @@ has_toc: true
 
 # Consent
 
-1. TOC
-{:toc}
+{: .no_toc .text-delta }
+
+TOC {:toc}
 
 ## Purpose of consent forms
 The purpose of a consent form is for both participants and researchers of the session to understand and agree on:
