@@ -8,10 +8,8 @@ nav_order: 5
 
 # Consent
 
-## Table of contents
-{: .no_toc .text-delta }
-
-TOC {:toc}
+Privacy Approved
+{: .label .label-green }
 
 ## Purpose of consent forms
 The purpose of a consent form is for both participants and researchers of the session to understand and agree on:
