@@ -9,7 +9,8 @@ has_toc: true
 
 # Consent
 
-<ol>{:toc}
+1.Table of contents
+{:toc}
 
 ## Purpose of consent forms
 The purpose of a consent form is for both participants and researchers of the session to understand and agree on:
