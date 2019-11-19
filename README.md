@@ -1,15 +1,19 @@
 ---
 layout: default
-title: Introduction to user research
-nav_exclude: true
+title: Home
+nav_order: 1
 ---
 
-[Suggest an edit](https://github.com/dlevineBC/user-research-guide-alpha/issues/new)
+# User Research Guide Draft Content
 
-# Introduction to User Research
+This is draft documentation of the new user research guide for the B.C. government. This guide is hosted on Github as a way to work in the open and receive feedback on content. 
 
-User research will help you develop a deep understanding of who the users are, how they behave, and what that means for the design of the service.
+## Get Started
+You will need to create a Github account to suggest edits in Github
 
-You should use this guide as a starting point. As you practice user research, you will learn what works best for your users and services and can develop your own approach.
+Each page has a link to "suggest an edit". If you find inaccurate content, you need more information, or something is missing, use this link to create an "issue" in Github repository.
+
+You can also email suggestions to [uxbc@gov.bc.ca](uxbc@gov.bc.ca)
+
 
 
