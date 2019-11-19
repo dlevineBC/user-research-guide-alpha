@@ -4,7 +4,7 @@ title: Introduction to user research
 nav_exclude: true
 ---
 
-[Suggest an edit](https://github.com/dlevineBC/Service-Pattern-Test/issues/new)
+[Suggest an edit](https://github.com/dlevineBC/user-research-guide-alpha/issues/new)
 
 # Introduction to User Research
 
