@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# User Research Guide Draft Content
+# User Research Guide (Alpha)
 
 This is draft documentation of the new user research guide for the B.C. government. This guide is hosted on Github as a way to work in the open and receive feedback on content. 
 
